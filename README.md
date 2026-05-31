@@ -21,3 +21,11 @@ Key Features:
 Run the main script to access the terminal-based Verification Tool:
 ```bash
 python ur5.py
+##Installation
+
+Clone the repository and install the required dependencies:
+
+```bash
+git clone [https://github.com/yourusername/UR5_VERIF_TOOL.git](https://github.com/yourusername/UR5_VERIF_TOOL.git)
+cd UR5_VERIF_TOOL
+pip install -r requirements.txt
